@@ -6,7 +6,14 @@ This project aims to analyze data related to solar farm expansion using data sci
   - Environmental solar data csv file
   - Installed solar plants data csv file
 
+##Clustering Based on Region using Langitude and Latitude
 ![Alt text](/Images/clustering_by_region.png)
+
+##Average Sunhine Hours and Wind Speed and Property prices
+![Alt text](/Images/AVG_sunshine.png)
+
+##Generated energy kWh/a by Model_ID
+![Alt text](/Images/Model_ID.png)
 
 #For 3 Million Budget
 
