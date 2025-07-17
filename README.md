@@ -23,7 +23,8 @@ This project aims to analyze data related to solar farm expansion using data sci
   - Generated energy kWh/a = 3144566 kWh/a
   - South-west land price = 1821981 euro
   - solar panel setup cost per 100(1m²) * 11459 m² = 1145900 euro
-
+  - Total cost = solar panel setup cost per 100(1m²) + South-west land price
+  
 ### Total cost = 2967881 (2.9M)
 
 ### Which is under the budget with 3 Million euro budget we can produce 3.1 million Kwh/a where as with 2 million budget we cannot achieve the 2 million Kwh/a energy need.
