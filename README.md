@@ -6,7 +6,7 @@ This project aims to analyze data related to solar farm expansion using data sci
   - Environmental solar data csv file
   - Installed solar plants data csv file
 
-![Alt text](clustering_by_region.png)
+![Alt text](/Images/clustering_by_region.png)
 
 #For 3 Million Budget
 
